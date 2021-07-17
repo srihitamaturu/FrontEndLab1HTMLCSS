@@ -1,11 +1,11 @@
 [
-   { user: srihita
+   { user: srihita1
 age:"28"
 place:"hyd"
    }
 
 {
-user:"sasi"
+user:"sasi1"
 age :"34"
 }
 ]
